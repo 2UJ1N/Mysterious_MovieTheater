@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 2372fc0480a6c487998bcd523a91dd30
+timeCreated: 1494981779
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: B_Peel_01
+    100004: B_Peel_02
+    100006: B_Peel_03
+    100008: B_Peel_Ctrl
+    100010: B_Peel_IK
+    100012: B_Peel_Knee_Ctrl
+    100014: Banana 1
+    100016: Bottom_01
+    100018: Bottom_02
+    100020: Bottom_Ctrl
+    100022: F_Peel_01
+    100024: F_Peel_02
+    100026: F_Peel_03
+    100028: F_Peel_Ctrl
+    100030: F_Peel_IK
+    100032: F_Peel_Knee_Ctrl
+    100034: Head_Ctrl
+    100036: IK
+    100038: Jaw_Bottom_01
+    100040: Jaw_Bottom_02
+    100042: Jaw_Bottom_Ctrl
+    100044: Jaw_Top_01
+    100046: Jaw_Top_02
+    100048: Jaw_Top_Ctrl
+    100050: L_Peel_01
+    100052: L_Peel_02
+    100054: L_Peel_03
+    100056: L_Peel_Ctrl
+    100058: L_Peel_IK
+    100060: L_Peel_Knee_Ctrl
+    100062: R_Peel_01
+    100064: R_Peel_02
+    100066: R_Peel_03
+    100068: R_Peel_Ctrl
+    100070: R_Peel_IK
+    100072: R_Peel_Knee_Ctrl
+    100074: Root
+    100076: Root_Ctrl
+    100078: Top_01
+    100080: Top_02
+    100082: World_Ctrl
+    400000: //RootNode
+    400002: B_Peel_01
+    400004: B_Peel_02
+    400006: B_Peel_03
+    400008: B_Peel_Ctrl
+    400010: B_Peel_IK
+    400012: B_Peel_Knee_Ctrl
+    400014: Banana 1
+    400016: Bottom_01
+    400018: Bottom_02
+    400020: Bottom_Ctrl
+    400022: F_Peel_01
+    400024: F_Peel_02
+    400026: F_Peel_03
+    400028: F_Peel_Ctrl
+    400030: F_Peel_IK
+    400032: F_Peel_Knee_Ctrl
+    400034: Head_Ctrl
+    400036: IK
+    400038: Jaw_Bottom_01
+    400040: Jaw_Bottom_02
+    400042: Jaw_Bottom_Ctrl
+    400044: Jaw_Top_01
+    400046: Jaw_Top_02
+    400048: Jaw_Top_Ctrl
+    400050: L_Peel_01
+    400052: L_Peel_02
+    400054: L_Peel_03
+    400056: L_Peel_Ctrl
+    400058: L_Peel_IK
+    400060: L_Peel_Knee_Ctrl
+    400062: R_Peel_01
+    400064: R_Peel_02
+    400066: R_Peel_03
+    400068: R_Peel_Ctrl
+    400070: R_Peel_IK
+    400072: R_Peel_Knee_Ctrl
+    400074: Root
+    400076: Root_Ctrl
+    400078: Top_01
+    400080: Top_02
+    400082: World_Ctrl
+    4300000: Banana
+    7400000: Walk
+    9500000: //RootNode
+    13700000: Banana 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

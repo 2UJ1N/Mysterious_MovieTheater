@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: e6dbb68cb75d648d08febc35f6046b65
+timeCreated: 1493863844
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bulb_01
+    100004: Bulb_02
+    100006: Bulb_Ctrl
+    100008: Bulb_Slice_01
+    100010: Bulb_Slice_02
+    100012: IK
+    100014: L_Arm_Ctrl
+    100016: L_Arm_IK
+    100018: L_Elbow
+    100020: L_Elbow_Ctrl
+    100022: L_Foot
+    100024: L_Hand
+    100026: L_Hip
+    100028: L_Knee
+    100030: L_Knee_Ctrl
+    100032: L_Leg_Ctrl
+    100034: L_Leg_IK
+    100036: L_Shoulder
+    100038: Onion 1
+    100040: R_Arm_Ctrl
+    100042: R_Arm_IK
+    100044: R_Elbow
+    100046: R_Elbow_Ctrl
+    100048: R_Foot
+    100050: R_Hand
+    100052: R_Hip
+    100054: R_Knee
+    100056: R_Knee_Ctrl
+    100058: R_Leg_Ctrl
+    100060: R_Leg_IK
+    100062: R_Shoulder
+    100064: Root
+    100066: Root_Ctrl
+    100068: Scape_01
+    100070: Scape_02
+    100072: Scape_03
+    100074: Scape_Ctrl
+    100076: Teeth
+    100078: World_Ctrl
+    400000: //RootNode
+    400002: Bulb_01
+    400004: Bulb_02
+    400006: Bulb_Ctrl
+    400008: Bulb_Slice_01
+    400010: Bulb_Slice_02
+    400012: IK
+    400014: L_Arm_Ctrl
+    400016: L_Arm_IK
+    400018: L_Elbow
+    400020: L_Elbow_Ctrl
+    400022: L_Foot
+    400024: L_Hand
+    400026: L_Hip
+    400028: L_Knee
+    400030: L_Knee_Ctrl
+    400032: L_Leg_Ctrl
+    400034: L_Leg_IK
+    400036: L_Shoulder
+    400038: Onion 1
+    400040: R_Arm_Ctrl
+    400042: R_Arm_IK
+    400044: R_Elbow
+    400046: R_Elbow_Ctrl
+    400048: R_Foot
+    400050: R_Hand
+    400052: R_Hip
+    400054: R_Knee
+    400056: R_Knee_Ctrl
+    400058: R_Leg_Ctrl
+    400060: R_Leg_IK
+    400062: R_Shoulder
+    400064: Root
+    400066: Root_Ctrl
+    400068: Scape_01
+    400070: Scape_02
+    400072: Scape_03
+    400074: Scape_Ctrl
+    400076: Teeth
+    400078: World_Ctrl
+    4300000: Onion
+    7400000: Idle
+    9500000: //RootNode
+    13700000: Onion 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 73
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Onion 1
+        weight: 1
+      - path: World_Ctrl
+        weight: 1
+      - path: World_Ctrl/IK
+        weight: 1
+      - path: World_Ctrl/IK/L_Arm_IK
+        weight: 1
+      - path: World_Ctrl/IK/L_Leg_IK
+        weight: 1
+      - path: World_Ctrl/IK/R_Arm_IK
+        weight: 1
+      - path: World_Ctrl/IK/R_Leg_IK
+        weight: 1
+      - path: World_Ctrl/L_Leg_Ctrl
+        weight: 1
+      - path: World_Ctrl/R_Leg_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/L_Shoulder
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/L_Shoulder/L_Elbow
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/R_Shoulder
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/R_Shoulder/R_Elbow
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/Scape_01
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/Scape_01/Scape_02
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Bulb_02/Scape_01/Scape_02/Scape_03
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_01/Teeth
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_Slice_01
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_Slice_01/Bulb_Slice_02
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_Slice_01/Bulb_Slice_02/L_Hip
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_Slice_01/Bulb_Slice_02/L_Hip/L_Knee
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_Slice_01/Bulb_Slice_02/L_Hip/L_Knee/L_Foot
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_Slice_01/Bulb_Slice_02/R_Hip
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_Slice_01/Bulb_Slice_02/R_Hip/R_Knee
+        weight: 1
+      - path: World_Ctrl/Root/Bulb_Slice_01/Bulb_Slice_02/R_Hip/R_Knee/R_Foot
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl/Bulb_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl/Bulb_Ctrl/L_Arm_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl/Bulb_Ctrl/R_Arm_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl/Bulb_Ctrl/Scape_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl/L_Elbow_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl/L_Knee_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl/R_Elbow_Ctrl
+        weight: 1
+      - path: World_Ctrl/Root_Ctrl/R_Knee_Ctrl
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
